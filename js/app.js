@@ -1,7 +1,7 @@
 // ================================================================
 //  APP.JS — Aula 07: Formulário com CEP
 //  ================================================================
-//  Este arquivo será desenvolvido AO VIVO com os alunos em aula.
+//  Este arquivo será desenvolvido junto com os alunos em aula.
 //
 //  Tópicos que serão abordados:
 //
@@ -15,7 +15,7 @@
 //
 //  ================================================================
 //
-//  ROTEIRO PARA A AULA (guia do professor):
+//  ROTEIRO
 //
 //  ETAPA 1 — Selecionar o campo de CEP e ouvir o evento "input"
 //  ETAPA 2 — Remover a máscara e verificar se tem 8 dígitos
