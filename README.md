@@ -15,6 +15,8 @@ Nesta aula, vamos construir **ao vivo** um formulário de cadastro de endereço 
 3. Exibe os registros salvos em uma tabela com opção de **exclusão**
 
 ---
+## 🌍 Demo Online
+[Acesse online](https://fatecitu.github.io/cep/)
 
 ## 🗂️ Estrutura de Arquivos
 
