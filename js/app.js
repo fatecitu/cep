@@ -111,7 +111,7 @@ form.addEventListener('submit', (e) => {
         estado: document.getElementById('estado').value
     };
 
-    salvarNoLocalStorage(novoCadastro);
+     LocalStorage(novoCadastro);
     form.reset();
     cepStatus.textContent = "";
     renderizarTabela();
